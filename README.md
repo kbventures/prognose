@@ -6,7 +6,7 @@ The code for this project is private at the request of the client who contracted
 **Website:** https://competent-wright-5e4a22.netlify.app/
 
 <a target="_blank" href="https://competent-wright-5e4a22.netlify.app/">
-    <img src="src/img/prognose_logo.png" height="190px" alt="Prognose"/>
+    <img src="prognose_logo.png" height="190px" alt="Prognose"/>
 </a>
 
 ## How It's Made:
